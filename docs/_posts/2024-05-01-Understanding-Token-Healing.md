@@ -4,7 +4,7 @@ title: "Understanding Token Healing"
 date: 2024-05-01 01:27:00 +0530
 categories: blog
 ---
-[![Token-Healing.webp](https://i.postimg.cc/fRbvYrGG/Token-Healing.webp)](https://postimg.cc/hfHxBpPs)
+<img src="https://i.postimg.cc/fRbvYrGG/Token-Healing.webp" width="400">
 
 Artificial Intelligence (AI) systems have made remarkable strides in recent years, with applications ranging from natural language processing to computer vision. 
 
